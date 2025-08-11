@@ -1,0 +1,3 @@
+## Summarization 
+
+The images depict an interactive user interface built with the Workshop module, showcasing a comprehensive network health dashboard. You'll see interactive filters allowing users to drill down by region, technology, supplier, and site. Prominently featured are key metric cards displaying vital KPIs like average throughput, call drop rate, units sold, revenue, and market share. The visualizations include charts illustrating revenue by region and KPI trends over time, tables presenting detailed inventory and health data, and a geo map visualizing site availability by region. The entire interface is organized with tabbed navigation for seamless exploration.
